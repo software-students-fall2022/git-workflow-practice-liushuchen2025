@@ -9,3 +9,11 @@ architecture.
 Hadoop is a very large echo system. If you are interested in this field, check out other tools here!
 
  https://research.google.com/archive/mapreduce-osdi04.pdf
+ 
+ 
+## Tim's Comment:
+This is a very informative article! I'm also interested in this field, 
+so it was a really good time reading it.The sherding part is very good
+knowledge to know. Although the concepts are a little bit hard to understand,
+but the overall architecture of this system is sounds very deep.
+
